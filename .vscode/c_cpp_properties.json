@@ -1,0 +1,28 @@
+{
+  "configurations": [
+    {
+      "name": "windows-gcc-x64",
+      "intelliSenseMode": "windows-gcc-x64",
+      "compilerPath": "gcc",
+      "includePath": [
+        "${workspaceFolder}/**"
+      ],
+      "defines": [
+        "_DEBUG"
+      ],
+      "browse": {
+        "path": [
+          "C:/MinGW/lib/gcc/x86_64-w64-mingw32/7.3.0/include",
+          "C:/MinGW/lib/gcc/x86_64-w64-mingw32/7.3.0/include-fixed",
+          "C:/MinGW/include/*",
+          "${workspaceFolder}"
+        ],
+        "limitSymbolsToIncludedHeaders": true,
+        "databaseFilename": ""
+      },
+      "cStandard": "${default}",
+      "cppStandard": "${default}"
+    }
+  ],
+  "version": 4
+}
